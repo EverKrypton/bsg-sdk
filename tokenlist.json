@@ -275,6 +275,14 @@
       "logoURI": "https://tokens.bscswap.com/images/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C.png"
     },
     {
+      "name": "SquidGrow",
+      "address": "0x88479186BAC914E4313389a64881F5ed0153C765",
+      "symbol": "SquidGrow",
+      "decimals": 19,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x88479186BAC914E4313389a64881F5ed0153C765/logo.png"
+    },
+    {
       "name": "Trust Wallet Token",
       "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
       "symbol": "TWT",
@@ -362,6 +370,7 @@
       "chainId": 97,
       "logoURI": "https://tokens.bscswap.com/images/0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867.png"
     },
+
     {
       "name": "EOS Token",
       "address": "0x6B043332090a6BE81De1503949Cfc8bac2cA1c33",
