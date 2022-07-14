@@ -35,6 +35,14 @@
       "logoURI": "https://tokens.bscswap.com/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
     },
     {
+      "name": "Baby SquidGrow",
+      "address": "0x03077A5893BA855bfe517A6995f31F3a801066E6",
+      "symbol": "BSG",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/EverKrypton/bsg-interface/main/src/assets/images/tokens/new-bsg.png"
+    },
+    {
       "name": "BakeryToken",
       "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
       "symbol": "BAKE",
