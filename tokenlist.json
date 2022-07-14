@@ -331,6 +331,14 @@
       "logoURI": "https://tokens.bscswap.com/images/0x16939ef78684453bfDFb47825F8a5F714f12623a.png"
     },
     {
+      "name": "Binance-Peg USD Coin",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.png"
+    },
+    {
       "name": "Venus",
       "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
       "symbol": "XVS",
